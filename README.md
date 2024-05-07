@@ -37,6 +37,6 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/daniel-sq/) | [E-mail](danieeldesoares@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/daniel-sq/) | [E-mail](mailto:danieeldesoares@hotmail.com)
 
 Project Link: https://github.com/usuariodaniel/cep-information-fetcher
